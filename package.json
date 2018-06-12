@@ -1,6 +1,6 @@
 {
   "name": "pwmetrics-lambda",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Run pwmetrics on AWS Lambda.",
   "engines": {
     "node": ">=6"
